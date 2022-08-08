@@ -1,3 +1,5 @@
+####Привіт, Сирничок, як же ти побачиш, що тобі хтось за проекти в телеграмі написав, якщо ти його не перевіряєш? Як справи?)
+
 #### Hi Everyone! 👨‍💻 I'm a JavaScript(React/Next) developer 👋
 
 - 🌐 I am a web developer, I write sites, Telegram bots, parsers, and much more 😁. I also teach 🐍 Python/Django and JS to other people
@@ -32,5 +34,7 @@ Here are some ideas to get you started:
 
 ![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoritm211&show_icons=true&theme=tokyonight&count_private=true&hide=total_prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritm211&layout=compact&theme=tokyonight&hide=glsl)
+    
+    
 
 
